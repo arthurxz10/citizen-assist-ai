@@ -1,0 +1,14 @@
+[
+  {"data": "18/11/2026 16:51", "origem": "pergunta", "pergunta": "Você acabou de completar 60 anos. Veja se ainda precisa pagar a passagem do ônibus", "id_orientacao": "TRA01", "encontrou": true, "ajudou": true, "tentativas": 1, "tempo": 13.9, "facilidade": 5},
+  {"data": "18/11/2026 16:52", "origem": "pergunta", "pergunta": "Seu filho entrou no ensino médio em uma escola estadual. Descubra se ele tem direito a passe livre", "id_orientacao": "TRA04", "encontrou": true, "ajudou": true, "tentativas": 1, "tempo": 26.0, "facilidade": 5},
+  {"data": "18/11/2026 16:53", "origem": "categoria", "pergunta": "Transporte", "id_orientacao": "TRA05", "encontrou": true, "ajudou": true, "tentativas": 1, "tempo": 8.2, "facilidade": 5},
+  {"data": "18/11/2026 16:55", "origem": "pergunta", "pergunta": "Você cansou de pagar aluguel e quer saber como conseguir uma casa por algum programa do governo", "id_orientacao": "MOR06", "encontrou": true, "ajudou": true, "tentativas": 1, "tempo": 30.5, "facilidade": 4},
+  {"data": "18/11/2026 16:56", "origem": "pergunta", "pergunta": "A casa onde você mora há muitos anos não tem escritura. Descubra o que precisa fazer para regularizar", "id_orientacao": "MOR05", "encontrou": true, "ajudou": true, "tentativas": 2, "tempo": 44.5, "facilidade": 4},
+  {"data": "18/11/2026 16:57", "origem": "categoria", "pergunta": "Moradia", "id_orientacao": "MOR03", "encontrou": true, "ajudou": true, "tentativas": 1, "tempo": 12.8, "facilidade": 4},
+  {"data": "18/11/2026 16:58", "origem": "pergunta", "pergunta": "A conta de luz deste mês veio bem mais alta que o normal. Descubra se você tem direito a algum desconto", "id_orientacao": "ENE01", "encontrou": true, "ajudou": true, "tentativas": 1, "tempo": 6.4, "facilidade": 3},
+  {"data": "18/11/2026 16:59", "origem": "pergunta", "pergunta": "Sua conta de luz está atrasada e você tem medo de que cortem a energia. Veja o que pode fazer", "id_orientacao": "ENE01", "encontrou": true, "ajudou": true, "tentativas": 1, "tempo": 5.9, "facilidade": 3},
+  {"data": "18/11/2026 17:00", "origem": "categoria", "pergunta": "Energia em casa", "id_orientacao": "ENE01", "encontrou": true, "ajudou": true, "tentativas": 1, "tempo": 3.2, "facilidade": 3},
+  {"data": "18/11/2026 17:02", "origem": "pergunta", "pergunta": "Seu Bilhete Único foi bloqueado e você não sabe por quê. Descubra como resolver", "id_orientacao": "TRA02", "encontrou": true, "ajudou": true, "tentativas": 1, "tempo": 23.1, "facilidade": 2},
+  {"data": "18/11/2026 17:04", "origem": "pergunta", "pergunta": "Você quer colocar crédito no Bilhete Único sem sair de casa. Descubra quais são as formas de recarga", "id_orientacao": "TRA02", "encontrou": true, "ajudou": true, "tentativas": 5, "tempo": 108.7, "facilidade": 2},
+  {"data": "18/11/2026 17:04", "origem": "categoria", "pergunta": "Moradia", "id_orientacao": "MOR06", "encontrou": true, "ajudou": true, "tentativas": 1, "tempo": 3.4, "facilidade": 2}
+]
