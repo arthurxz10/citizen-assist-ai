@@ -194,4 +194,4 @@ A dúvida sobre corte de energia por atraso ficou registrada como limitação.
 
 ## Vídeo técnico
 
-Link (YouTube, não listado): _a preencher_
+Link (YouTube, não listado): https://youtu.be/FkdzqQNu1mY
